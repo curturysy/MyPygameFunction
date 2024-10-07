@@ -1,0 +1,2 @@
+# MyPygameFunction
+放一些做pygame游戏时我使用的方法
